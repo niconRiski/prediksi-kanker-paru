@@ -1,0 +1,184 @@
+[
+  {
+    "id": "AGE",
+    "label": "Usia Anda (tahun)",
+    "type": "number",
+    "placeholder": "Contoh: 55",
+    "description": "Masukkan usia Anda saat ini dalam tahun."
+  },
+  {
+    "id": "GENDER",
+    "label": "Jenis Kelamin",
+    "type": "select",
+    "options": { "Pria": 1, "Wanita": 0 },
+    "description": "Pilih jenis kelamin biologis Anda."
+  },
+  {
+    "id": "SMOKING",
+    "label": "Merokok",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda seorang perokok aktif atau pernah merokok secara rutin?"
+  },
+  {
+    "id": "YELLOW_FINGERS",
+    "label": "Jari Kuning",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah jari Anda terlihat menguning, seringkali akibat nikotin?"
+  },
+  {
+    "id": "ANXIETY",
+    "label": "Cemas/Gelisah",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda sering merasa cemas, khawatir, atau gelisah berlebihan?"
+  },
+  {
+    "id": "PEER_PRESSURE",
+    "label": "Tekanan dari Rekan",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda merasa ada tekanan dari lingkungan sosial untuk merokok atau gaya hidup tidak sehat?"
+  },
+  {
+    "id": "CHRONIC_DISEASE",
+    "label": "Penyakit Kronis",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda memiliki riwayat penyakit kronis seperti diabetes, hipertensi, atau penyakit paru-paru?"
+  },
+  {
+    "id": "FATIGUE",
+    "label": "Kelelahan Ekstrem",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda sering merasa sangat lelah tanpa sebab yang jelas meskipun sudah cukup istirahat?"
+  },
+  {
+    "id": "ALLERGY",
+    "label": "Alergi",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda memiliki riwayat alergi, terutama yang berkaitan dengan pernapasan atau debu?"
+  },
+  {
+    "id": "WHEEZING",
+    "label": "Mengi (Napas Berbunyi)",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah napas Anda sering mengeluarkan bunyi 'ngik-ngik' saat bernapas?"
+  },
+  {
+    "id": "ALCOHOL_CONSUMING",
+    "label": "Konsumsi Alkohol",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda mengonsumsi minuman beralkohol secara rutin?"
+  },
+  {
+    "id": "COUGHING",
+    "label": "Batuk Darah",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda pernah atau sering mengalami batuk yang disertai darah?"
+  },
+  {
+    "id": "SHORTNESS_OF_BREATH",
+    "label": "Sesak Napas",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda sering merasa sesak napas bahkan saat melakukan aktivitas ringan?"
+  },
+  {
+    "id": "SWALLOWING_DIFFICULTY",
+    "label": "Sulit Menelan",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda merasa kesulitan atau sakit saat menelan makanan atau minuman?"
+  },
+  {
+    "id": "CHEST_PAIN",
+    "label": "Nyeri Dada",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda sering mengalami nyeri, tekanan, atau rasa tidak nyaman di area dada?"
+  },
+  {
+    "id": "AIR_POLLUTION",
+    "label": "Paparan Polusi Udara",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda tinggal atau bekerja di area dengan tingkat polusi udara yang tinggi?"
+  },
+  {
+    "id": "OCCUPATIONAL_HAZARDS",
+    "label": "Bahaya Pekerjaan",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah pekerjaan Anda membuat Anda terpapar zat berbahaya seperti asbes, debu, atau asap kimia?"
+  },
+  {
+    "id": "GENETIC_RISK",
+    "label": "Risiko Genetik",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah ada riwayat penyakit kanker paru-paru dalam keluarga dekat Anda?"
+  },
+  {
+    "id": "BALANCED_DIET",
+    "label": "Pola Makan Seimbang",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda secara rutin mengonsumsi makanan yang tidak seimbang (rendah serat, tinggi lemak)?"
+  },
+  {
+    "id": "OBESITY",
+    "label": "Obesitas",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda memiliki kondisi berat badan berlebih atau obesitas?"
+  },
+  {
+    "id": "PASSIVE_SMOKER",
+    "label": "Perokok Pasif",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda sering terpapar asap rokok dari orang lain di rumah atau tempat kerja?"
+  },
+  {
+    "id": "WEIGHT_LOSS",
+    "label": "Penurunan Berat Badan",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda mengalami penurunan berat badan yang signifikan tanpa sebab yang jelas?"
+  },
+  {
+    "id": "CLUBBING_OF_FINGER_NAILS",
+    "label": "Clubbing (Kuku Jari)",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah ujung jari Anda terlihat membulat dan kuku melengkung ke bawah seperti sendok terbalik?"
+  },
+  {
+    "id": "FREQUENT_COLD",
+    "label": "Sering Flu/Pilek",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda merasa sangat sering terserang flu, pilek, atau infeksi pernapasan?"
+  },
+  {
+    "id": "DRY_COUGH",
+    "label": "Batuk Kering",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda mengalami batuk kering yang persisten dan tidak kunjung sembuh?"
+  },
+  {
+    "id": "SNORING",
+    "label": "Mendengkur",
+    "type": "select",
+    "options": { "Ya": 1, "Tidak": 0 },
+    "description": "Apakah Anda memiliki kebiasaan mendengkur saat tidur?"
+  }
+]
