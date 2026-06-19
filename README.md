@@ -68,8 +68,7 @@ Berisiko Tinggi       0.99      0.99      0.99       194
 [*] Grafik Feature Importance disimpan di: models\feature_importance.png
 [*] Model terbaik disimpan di: models\lung_risk_classifier.pkl
 [*] Informasi kolom disimpan di: models\model_info.json
-
-
+```
 <img width="1278" height="977" alt="image" src="https://github.com/user-attachments/assets/ae0b53fb-45d0-4b65-a2f4-f1132f19fb17" />
 <img width="1271" height="980" alt="image" src="https://github.com/user-attachments/assets/0b80a45d-feb7-4333-ba22-52126d1fb5bc" />
 <img width="1267" height="917" alt="image" src="https://github.com/user-attachments/assets/9859044b-898e-4e72-91d2-4549dbc973c5" />
